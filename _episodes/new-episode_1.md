@@ -1,5 +1,5 @@
 ---
-title: New Lesson
+title: Why code
 teaching: 10
 exercises: 20
 duration: 0
