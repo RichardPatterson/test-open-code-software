@@ -9,7 +9,7 @@ objectives: null
 keypoints: null
 is-break: false
 day: 1
-order: 7500
+order: 210000
 ukrn_wb_rules: null
 missingDependencies: []
 dependencies: []
